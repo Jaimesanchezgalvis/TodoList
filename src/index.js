@@ -1,10 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { ModalInfo } from './components/ModalInfo';
 import { Main } from './Main';
 
 ReactDOM.render(
   <React.StrictMode>
     <Main />
+    <ModalInfo/>
   </React.StrictMode>,
   document.getElementById('root')
 );

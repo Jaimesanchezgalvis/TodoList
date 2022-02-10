@@ -1,7 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash } from '@fortawesome/free-solid-svg-icons';
-import PropTypes from 'prop-types';
 
 export const TodoListItem = ({ todo, index, handleDelete, handleToggle }) => {
 
@@ -32,17 +31,4 @@ export const TodoListItem = ({ todo, index, handleDelete, handleToggle }) => {
     )
 }
 
-TodoListItem.propTypes ={
-    todo: PropTypes.string.isRequired,
-    index: PropTypes.string.isRequired, 
-    handleDelete: PropTypes.string.isRequired, 
-    handleToggle: PropTypes.string.isRequired
-}
-
-TodoListItem.defaultProps= {
-    todo: 'todo',
-    index: 'index',
-    handleDelete: 'handleDelete',
-    handleToggle: 'handleToggle'
-}
 
