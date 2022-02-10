@@ -5,6 +5,8 @@ Para usar la aplicacion se requiere isntalar algunos paquetes basicos,
 - Sweetalert2
 - enzyme
 - gh-pages
+- prop-types
+
 
 posterior se unicia con npm start
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -19,4 +21,10 @@ tambien use algun custom hook que esta en la carpeta hook se llama UseForm
 
 ## Produccion
 El proyecto lo he desplegado direactamente en github y se puede visitar en la direccion:
+https://jaimesanchezgalvis.github.io/TodoList/
+
+## Pruebas
+version 1.1 commin soon pruebas con enzyme
+
+
 
