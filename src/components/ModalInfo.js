@@ -47,6 +47,5 @@ export const ModalInfo = () => {
             </Modal>
 
         </div>
-
     )
 };
