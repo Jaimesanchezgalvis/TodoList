@@ -2,7 +2,6 @@
   "files": {
     "main.css": "/TodoList/static/css/main.793322bf.css",
     "main.js": "/TodoList/static/js/main.4a4fd277.js",
-    "service-worker.js": "/TodoList/service-worker.js",
     "index.html": "/TodoList/index.html",
     "main.793322bf.css.map": "/TodoList/static/css/main.793322bf.css.map",
     "main.4a4fd277.js.map": "/TodoList/static/js/main.4a4fd277.js.map"
